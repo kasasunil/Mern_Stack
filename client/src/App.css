@@ -1,0 +1,27 @@
+Link{
+  padding: 2px 5px;
+  text-decoration: none;
+  color: white;
+ }
+
+Link:hover{
+    color: red;
+}
+
+#navimg{
+  height:40px;
+}
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+  font-size: 1rem;
+  line-height: 2.15;
+  padding-left: .75em;
+  padding-right: .75em;
+  }
+  .card-registration .select-arrow {
+  top: 13px;
+  }
+
+  #signupimg{
+    height:auto;
+  }
